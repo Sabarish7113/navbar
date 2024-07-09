@@ -1,0 +1,28 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+nav
+{
+    margin: 0px;
+    height: 4rem;
+    background-color:rgb(57, 57, 147);
+}
+ul{
+    list-style-type: none;
+    display: inline;
+    float: left;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    padding: 10px;
+    font-size: x-large;
+    display: inline;
+    color: white;
+}
+.mov
+{
+    margin-left: 35rem;
+}
